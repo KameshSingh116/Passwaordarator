@@ -1,5 +1,5 @@
 # Passwaordarator
-A basic python program to make a strong ppassword generate
+A basic python program to make a strong password generator
 
 🔑 Project Overview
 Welcome to the Passwordarator, a simple yet effective Python-based password generator. This script is designed to create random passwords based on user-defined length and character sets. It's a great beginner project for learning about user input, conditional logic, and file handling in Python.
