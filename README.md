@@ -30,3 +30,5 @@ Bash
 
 python password_generator.py
 Follow the Prompts: The script will ask you to choose a password type and specify its length. The generated password will be displayed on the screen and saved to passes.txt.
+
+## This is note 1 for this projects , next versions will be coming....
